@@ -7,6 +7,12 @@ Hey there! My name is Anthony and I go by He/Him pronouns. I'm currently develop
   * JavaScipt
   * HTML
   * CSS
+  * Python
+  * Nodejs
+  * React
+  * Django
+  * Express
+  * Postgresql
 
 ### Languages I want to learn
 
