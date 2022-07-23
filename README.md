@@ -1,18 +1,19 @@
 ### Hey there ✌
 
-Hey there! My name is Anthony and I go by He/Him pronouns. I'm currently developing my skills as a Software Engineer though when aren't we all. At the moment I am working on enhancing my my Investigator Rick website.
+Hey there! My name is Anthony and I go by He/Him pronouns. I'm currently developing my skills as a Software Engineer, though when aren't we all. At the moment I am working on enhancing my Secret Fighters application
 
-### Languages Learned
+### Skills Learned
 
   * JavaScipt
   * HTML
   * CSS
   * Python
   * Nodejs
-  * React
+  * Reactjs
   * Django
   * Express
   * Postgresql
+  * Mongodb
 
 ### Languages I want to learn
 
